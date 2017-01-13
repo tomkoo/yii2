@@ -20,6 +20,7 @@ return array (
   '(not set)' => '(nincs beállítva)',
   'An internal server error occurred.' => 'Egy belső szerver hiba történt.',
   'Are you sure you want to delete this item?' => 'Biztos benne, hogy törli ezt az elemet?',
+  'Create' => 'Létrehozás',
   'Delete' => 'Törlés',
   'Error' => 'Hiba',
   'File upload failed.' => 'A fájlfeltöltés nem sikerült.',
